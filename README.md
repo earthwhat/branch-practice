@@ -1,3 +1,3 @@
 # Branch-practice
 
-## To practice branch system
+To practice branch system
